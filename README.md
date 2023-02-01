@@ -4,7 +4,9 @@ Exploratory Data Analysis on Hotel Booking dataset. Here,We are provided with a 
 
 This is a exploratory project of hotel booking analysis which contain data set of hotel bookings, information about booking agents, length of stay, booking channels, when booking was made, number of adults, number of children and babies, required parking spaces, etc. We have performed exploratory analysis on this data set. Objective:- Our main objective is to perform EDA on the given dataset and draw out some trendS and some useful conclusions.
 
+This dataset contains the data of three years  i.e,2015,2016 and 2017.
 
+Link to dataset :- https://drive.google.com/file/d/1C9AxF9fcVzMw0Bgs0NaRrNML2WwX1Ehm/view
 
 Tools and Libraries
 
