@@ -7,6 +7,7 @@ This is a exploratory project of hotel booking analysis which contain data set o
 This dataset contains the data of three years  i.e,2015,2016 and 2017.
 
 Link to dataset :- https://drive.google.com/file/d/1C9AxF9fcVzMw0Bgs0NaRrNML2WwX1Ehm/view
+Link to the tableau dashboard :- https://public.tableau.com/app/profile/abhishek.bhattarai/viz/HotelBookingAnalysis_16877720605480/Dashboard2?publish=yes
 
 Tools and Libraries
 
